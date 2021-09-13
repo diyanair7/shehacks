@@ -1,0 +1,21 @@
+h1{
+    text-decoration-line: underline;
+    font-size:80px;
+color:darkcyan;
+align-items: center;
+
+}
+
+body{
+background: black;
+}
+
+h3{
+color: burlywood;
+
+}
+
+p{
+    color:rgb(115, 185, 241);
+    font-size: 25px;
+}
